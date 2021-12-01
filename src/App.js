@@ -3,7 +3,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          !Welcome to CubicApp!
+          !Welcome to CubicApp Team!
         </p>
       </header>
     </div>
