@@ -1,4 +1,4 @@
-### Hi there :) ;) CubicWebAPP👋
+### Hi Welcome to CubicWebAPP Main👋
 
 <!--
 **cubicapp/cubicapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
