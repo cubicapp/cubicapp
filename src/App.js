@@ -3,7 +3,7 @@ function App() {
     <div className="App">
           <div id="root"></div>
         <p>
-          !Welcome to CubicApp Team! **Main**
+          !Welcome to CubicApp Team!
         </p>
     </div>
   );
