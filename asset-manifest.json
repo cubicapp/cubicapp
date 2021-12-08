@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/cubicapp/static/css/main.00c7041a.chunk.css",
-    "main.js": "/cubicapp/static/js/main.2409c2c0.chunk.js",
-    "main.js.map": "/cubicapp/static/js/main.2409c2c0.chunk.js.map",
+    "main.js": "/cubicapp/static/js/main.5bbc7fe4.chunk.js",
+    "main.js.map": "/cubicapp/static/js/main.5bbc7fe4.chunk.js.map",
     "runtime-main.js": "/cubicapp/static/js/runtime-main.1f5be9cc.js",
     "runtime-main.js.map": "/cubicapp/static/js/runtime-main.1f5be9cc.js.map",
-    "static/js/2.7be24e14.chunk.js": "/cubicapp/static/js/2.7be24e14.chunk.js",
-    "static/js/2.7be24e14.chunk.js.map": "/cubicapp/static/js/2.7be24e14.chunk.js.map",
+    "static/js/2.95c1226c.chunk.js": "/cubicapp/static/js/2.95c1226c.chunk.js",
+    "static/js/2.95c1226c.chunk.js.map": "/cubicapp/static/js/2.95c1226c.chunk.js.map",
     "index.html": "/cubicapp/index.html",
     "static/css/main.00c7041a.chunk.css.map": "/cubicapp/static/css/main.00c7041a.chunk.css.map",
-    "static/js/2.7be24e14.chunk.js.LICENSE.txt": "/cubicapp/static/js/2.7be24e14.chunk.js.LICENSE.txt"
+    "static/js/2.95c1226c.chunk.js.LICENSE.txt": "/cubicapp/static/js/2.95c1226c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f5be9cc.js",
-    "static/js/2.7be24e14.chunk.js",
+    "static/js/2.95c1226c.chunk.js",
     "static/css/main.00c7041a.chunk.css",
-    "static/js/main.2409c2c0.chunk.js"
+    "static/js/main.5bbc7fe4.chunk.js"
   ]
 }
