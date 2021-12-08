@@ -1,0 +1,2 @@
+(this.webpackJsonpcubicapp=this.webpackJsonpcubicapp||[]).push([[0],{10:function(c,e,t){"use strict";t.r(e);var n=t(1),i=t.n(n),s=t(3),p=t.n(s),r=(t(8),t(0));var o=function(){return Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("div",{id:"root"}),Object(r.jsx)("p",{children:"!Welcome to CubicApp Team! Main"})]})};p.a.render(Object(r.jsx)(i.a.StrictMode,{children:Object(r.jsx)(o,{})}),document.getElementById("root"))},8:function(c,e,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.2409c2c0.chunk.js.map
